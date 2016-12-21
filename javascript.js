@@ -23,3 +23,24 @@ $("#info-button").click(function(){
     $('.all-content').hide();
     $('#info-content').show();
 });
+
+$("#past-button").click(function(){
+    $('.all-content').hide();
+    $('#past-content').show();
+});
+
+
+$("#dark-button").click(function(){
+    $('.all-content').hide();
+    $('#dark-content').show();
+});
+
+$("#press-button").click(function(){
+    $('.all-content').hide();
+    $('#press-content').show();
+});
+
+$("#takeover-button").click(function(){
+    $('.all-content').hide();
+    $('#takeover-content').show();
+});
